@@ -1,6 +1,6 @@
 ## News Stories
 
-[NY Times - March 2022 / rent surge](https://www.nytimes.com/2022/03/07/nyregion/nyc-rent-surge.html)
+1. [NY Times - March 2022 / rent surge](https://www.nytimes.com/2022/03/07/nyregion/nyc-rent-surge.html)
 
 [2017 Housing Vacancy Survey](https://www.dropbox.com/s/273e4edfkjak9n4/housing%20vacacy%20survey%202017.pdf?dl=0)
 
